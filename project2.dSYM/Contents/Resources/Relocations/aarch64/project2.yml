@@ -1,0 +1,22 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/sohamkulkarni/Downloads/Project2Resources 2/project2'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _PrintArray, symObjAddr: 0x0, symBinAddr: 0x10000251C, symSize: 0xBC }
+  - { offsetInCU: 0x48, offset: 0x48, size: 0x8, addend: 0x0, symName: _PrintArray, symObjAddr: 0x0, symBinAddr: 0x10000251C, symSize: 0xBC }
+  - { offsetInCU: 0xA4, offset: 0xA4, size: 0x8, addend: 0x0, symName: _InitialiseMap, symObjAddr: 0xBC, symBinAddr: 0x1000025D8, symSize: 0x128 }
+  - { offsetInCU: 0x138, offset: 0x138, size: 0x8, addend: 0x0, symName: _AddRandomShip, symObjAddr: 0x1E4, symBinAddr: 0x100002700, symSize: 0x35C }
+  - { offsetInCU: 0x22E, offset: 0x22E, size: 0x8, addend: 0x0, symName: _CountValues, symObjAddr: 0x540, symBinAddr: 0x100002A5C, symSize: 0xBC }
+  - { offsetInCU: 0x2AA, offset: 0x2AA, size: 0x8, addend: 0x0, symName: _TopLeftPosition, symObjAddr: 0x5FC, symBinAddr: 0x100002B18, symSize: 0x158 }
+  - { offsetInCU: 0x342, offset: 0x342, size: 0x8, addend: 0x0, symName: _IsShipValid, symObjAddr: 0x754, symBinAddr: 0x100002C70, symSize: 0xB58 }
+  - { offsetInCU: 0x3BE, offset: 0x3BE, size: 0x8, addend: 0x0, symName: _InitialiseRandomMap, symObjAddr: 0x12AC, symBinAddr: 0x1000037C8, symSize: 0x108 }
+  - { offsetInCU: 0x436, offset: 0x436, size: 0x8, addend: 0x0, symName: _FireShot, symObjAddr: 0x13B4, symBinAddr: 0x1000038D0, symSize: 0x3C }
+  - { offsetInCU: 0x484, offset: 0x484, size: 0x8, addend: 0x0, symName: _CheckGameOver, symObjAddr: 0x13F0, symBinAddr: 0x10000390C, symSize: 0x28 }
+  - { offsetInCU: 0x4BA, offset: 0x4BA, size: 0x8, addend: 0x0, symName: _TestPrintArray, symObjAddr: 0x1418, symBinAddr: 0x100003934, symSize: 0x100 }
+  - { offsetInCU: 0x50D, offset: 0x50D, size: 0x8, addend: 0x0, symName: _TestInitialiseMap, symObjAddr: 0x1518, symBinAddr: 0x100003A34, symSize: 0x7C }
+  - { offsetInCU: 0x533, offset: 0x533, size: 0x8, addend: 0x0, symName: _TestAddRandomShip, symObjAddr: 0x1594, symBinAddr: 0x100003AB0, symSize: 0xEC }
+  - { offsetInCU: 0x569, offset: 0x569, size: 0x8, addend: 0x0, symName: _TestTopLeftPosition, symObjAddr: 0x1680, symBinAddr: 0x100003B9C, symSize: 0xFC }
+  - { offsetInCU: 0x5CB, offset: 0x5CB, size: 0x8, addend: 0x0, symName: _TestIsShipValid, symObjAddr: 0x177C, symBinAddr: 0x100003C98, symSize: 0x174 }
+  - { offsetInCU: 0x60F, offset: 0x60F, size: 0x8, addend: 0x0, symName: _TestInitialiseRandomMap, symObjAddr: 0x18F0, symBinAddr: 0x100003E0C, symSize: 0x70 }
+  - { offsetInCU: 0x635, offset: 0x635, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x1960, symBinAddr: 0x100003E7C, symSize: 0x4C }
+...
